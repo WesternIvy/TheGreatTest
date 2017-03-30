@@ -13,8 +13,12 @@ namespace TheGreatTest
 
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
-            //test för att pusha...
-            // testar igen att göra ny push...
+            //test för att pusha..
+            // test
+            // testar igen att göra ny push..
+            // gör en ny push
+            // ny push 
+            // ny 
         }
     }
 }
