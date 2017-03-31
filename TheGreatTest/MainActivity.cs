@@ -15,6 +15,7 @@ namespace TheGreatTest
             // SetContentView (Resource.Layout.Main);
             //test för att pusha...
             // testar igen att göra ny push...
+            //nytt test från annan dator ;)
         }
     }
 }
